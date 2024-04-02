@@ -1,11 +1,11 @@
 {
-    "name": "undangan",
-    "short_name": "undangan",
+    "name": "Undangan Vio & Fatin",
+    "short_name": "VF",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Undangan Acara Pernikahan Vio & Fatin",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
