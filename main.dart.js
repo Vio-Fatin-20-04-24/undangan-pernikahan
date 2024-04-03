@@ -28755,7 +28755,7 @@ var $async$axY=A.A(function(a,b){if(a===1)return A.w(b,r)
 while(true)switch(s){case 0:if(window.sessionStorage.getItem("isInDetailPage")==="true"){q=window.sessionStorage
 q.toString
 B.Rt.E(q,"isInDetailPage")
-window.location.href="/"}if($.m==null)A.SP()
+window.location.href="/undangan-pernikahan/"}if($.m==null)A.SP()
 $.m.toString
 s=2
 return A.B(A.a9o("undanganVF",A.aQ2()),$async$axY)
